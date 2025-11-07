@@ -9,15 +9,15 @@ O objetivo deste projeto é aplicar boas práticas de organização de código e
 
 mini_projeto/
 │
-├── src/
-│ ├── dataset.py # Carrega o dataset Fashion-MNIST e cria os DataLoaders
-│ ├── model.py # Define a arquitetura da CNN (SimpleCNN)
-│ ├── main.py # Treinamento, validação e visualização no TensorBoard
-│
-├── data/ # Diretório onde o dataset será baixado automaticamente
-├── venv/ # Ambiente virtual (não deve ir para o Git)
-├── requirements.txt # Dependências do projeto
-└── README.md # Documentação do projeto
+├── src/  
+│ ├── dataset.py # Carrega o dataset Fashion-MNIST e cria os DataLoaders  
+│ ├── model.py # Define a arquitetura da CNN (SimpleCNN)  
+│ ├── main.py # Treinamento, validação e visualização no TensorBoard  
+│  
+├── data/ # Diretório onde o dataset será baixado automaticamente  
+├── venv/ # Ambiente virtual (não deve ir para o Git)  
+├── requirements.txt # Dependências do projeto  
+└── README.md # Documentação do projeto  
 
 yaml
 Copiar código
@@ -106,3 +106,4 @@ Se quiser, posso:
 - adicionar uma seção "Resultados".
 
 Quer que eu adicione uma seção de "Resultados" mostrando a accuracy final? 😊
+
