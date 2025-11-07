@@ -13,8 +13,8 @@ mini_projeto/
 │ ├── dataset.py # Carrega o dataset Fashion-MNIST e cria os DataLoaders  
 │ ├── model.py # Define a arquitetura da CNN (SimpleCNN)  
 │ ├── main.py # Treinamento, validação e visualização no TensorBoard  
-│ ├── runs/ # logs de treinamento
-│
+│ ├── runs/ # logs de treinamento  
+│  
 ├── data/ # Diretório onde o dataset será baixado automaticamente    
 ├── requirements.txt # Dependências do projeto  
 └── README.md # Documentação do projeto  
@@ -33,5 +33,6 @@ mini_projeto/
 
 📌 Objetivo
 Estudar boas práticas de organização de projeto em Machine Learning, utilizando uma CNN em PyTorch com TensorBoard para monitoramento.
+
 
 
