@@ -7,8 +7,8 @@ O objetivo deste projeto é aplicar boas práticas de organização de código e
 
 ## 📁 Estrutura do projeto
 
-mini_projeto/
-│
+mini_projeto/  
+│  
 ├── src/  
 │ ├── dataset.py # Carrega o dataset Fashion-MNIST e cria os DataLoaders  
 │ ├── model.py # Define a arquitetura da CNN (SimpleCNN)  
@@ -33,4 +33,5 @@ mini_projeto/
 
 📌 Objetivo
 Estudar boas práticas de organização de projeto em Machine Learning, utilizando uma CNN em PyTorch com TensorBoard para monitoramento.
+
 
